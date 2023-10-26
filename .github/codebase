@@ -1,0 +1,11 @@
+.devcontainer/devcontainer.json
+{
+    // Name this configuration
+    "name": "CodePilot CodeSpace",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
